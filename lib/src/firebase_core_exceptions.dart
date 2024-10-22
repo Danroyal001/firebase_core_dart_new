@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-import '../firebase_core_dart.dart';
+import '../firebase_core_dart_new.dart';
 
 /// Throws a consistent cross-platform error message when usage of an app occurs but
 /// no app has been created.

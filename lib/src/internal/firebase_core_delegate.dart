@@ -4,7 +4,7 @@
 
 // ignore_for_file: public_member_api_docs
 
-part of firebase_core_dart;
+part of firebase_core_dart_new;
 
 /// An internal delegate to perform all Firebase core functionalities.
 

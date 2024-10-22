@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-part of firebase_core_dart;
+part of firebase_core_dart_new;
 
 /// Entry point of Firebase Core for dart-only apps.
 class Firebase {

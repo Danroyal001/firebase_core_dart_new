@@ -3,7 +3,7 @@ name: firebase_core_dart_new
 description: Pure Dart implementation of FlutterFire core API
 homepage: https://firebase.flutter.dev
 
-repository: https://github.com/invertase/flutterfire_desktop
+repository: https://github.com/Danroyal001/firebase_core_dart_new
 
 version: 1.0.0
 
@@ -12,6 +12,7 @@ environment:
 
 dependencies:
   collection: ^1.19.0
+  firebase_core_dart: ^1.0.1
   meta: ^1.16.0
 
 dev_dependencies:
